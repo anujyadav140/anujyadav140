@@ -5,7 +5,7 @@
 
 - 🧑‍🎓Studying at Carnegie Mellon University.
 
-- 🔭 I’m currently working on [Autarch LLM]([https://github.com/anujyadav140/autarchllm](https://github.com/anujyadav140/autarchllm)) A local chatGPT!
+- 🔭 I’m currently working on [Autarch LLM](https://github.com/anujyadav140/autarchllm) A local chatGPT!
 
 - 👨‍💻 All of my projects are available at [https://github.com/anujyadav140](https://github.com/anujyadav140)
 
