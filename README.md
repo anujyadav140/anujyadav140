@@ -3,7 +3,9 @@
 <h3 align="center">A fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
 
-- 🔭 I’m currently working on [Artisan](https://github.com/anujyadav140/Artisan)
+- 🧑‍🎓Studying at Carnegie Mellon University.
+
+- 🔭 I’m currently working on [Autarch LLM]([https://github.com/anujyadav140/Artisan](https://github.com/anujyadav140/autarchllm)) A local chatGPT!
 
 - 👨‍💻 All of my projects are available at [https://github.com/anujyadav140](https://github.com/anujyadav140)
 
