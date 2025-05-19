@@ -1,6 +1,6 @@
 [![MasterHead](https://f8n-production.s3.amazonaws.com/creators/profile/nprhx6w5y-bannerferris-gif-7z58xh.gif)](https://anujyadav140.github.io/Portfolio/)
 <h1 align="center">Hi 👋, I'm Anuj Yadav</h1>
-<h3 align="center">A fullstack developer from India</h3>
+<h3 align="center">A product manager who likes to still code!</h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
 
 - 🧑‍🎓Studying at Carnegie Mellon University.
