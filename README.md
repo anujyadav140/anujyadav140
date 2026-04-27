@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are at [**github.com/anujyadav140**](https://github.com/anujyadav140)
 
-- 💬 Ask me about **0→1 product, buyer interviews, scrappy prototyping**
+- 💬 Ask me about **0→1 product, scrappy prototyping**
 
 - 📫 Reach me at **[anujyadav140@gmail.com](mailto:anujyadav140@gmail.com)**
 
