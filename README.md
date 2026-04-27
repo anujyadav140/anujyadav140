@@ -3,7 +3,7 @@
 
 - 🎓 **Carnegie Mellon University** graduate
 
-- 💼 Currently building product at **[Platinum Micro](https://platinummicro.com)**
+- 💼 Currently working at **[Platinum Micro](https://platinummicro.com)**
 
 - 🔭 Side project: [**Autarch LLM**](https://github.com/anujyadav140/autarchllm) — a local ChatGPT
 
@@ -21,12 +21,7 @@
   <a href="mailto:anujyadav140@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
   </a>
-  <a href="https://anujyadav140.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <a href="https://portfolio-anuj-yadav.web.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="30" />
   </a>
-</p>
-
-<h3 align="left">GitHub stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujyadav140&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>
