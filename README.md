@@ -1,37 +1,32 @@
-[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Anuj%20Yadav&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Carnegie%20Mellon%20%C2%B7%20Building%20Autarch%20LLM&descSize=14&descAlignY=60)](https://anujyadav140.github.io/Portfolio/)
-
 <h1 align="center">Hi 👋, I'm Anuj Yadav</h1>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
 
-- 🧑‍🎓 Studying at **Carnegie Mellon University**
+- 🎓 **Carnegie Mellon University** graduate
 
-- 🔭 I'm currently working on [**Autarch LLM**](https://github.com/anujyadav140/autarchllm) — a local ChatGPT
+- 💼 Currently building product at **[Platinum Micro](https://platinummicro.com)**
+
+- 🔭 Side project: [**Autarch LLM**](https://github.com/anujyadav140/autarchllm) — a local ChatGPT
 
 - 👨‍💻 All of my projects are at [**github.com/anujyadav140**](https://github.com/anujyadav140)
 
-- 💬 Ask me about **Flutter, Angular, React**
+- 💬 Ask me about **0→1 product, buyer interviews, scrappy prototyping**
 
 - 📫 Reach me at **[anujyadav140@gmail.com](mailto:anujyadav140@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/anuj-yadav-4493a21b3" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="linkedin" height="32" width="32" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
-</p>
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js,flutter,dart,html,css,sass,go,py,cs,elixir,express,flask,mongodb,mysql,postgres,firebase,git,postman,blender,unity&perline=8" alt="skills" />
+  <a href="mailto:anujyadav140@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
+  </a>
+  <a href="https://anujyadav140.github.io/Portfolio/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="30" />
   </a>
 </p>
 
 <h3 align="left">GitHub stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anujyadav140&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=anujyadav140&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anujyadav140&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>
